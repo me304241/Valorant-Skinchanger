@@ -5,7 +5,7 @@
 
 </div>
 
-This Code Contains The Source Code For The SkinChanger Cheat For Valorant Written In c++ Language Instructions For Use Are Below
+This Code Contains The Source Code For The SkinChanger Cheat For Valorant Written In Lua Language Instructions For Use Are Below
 
 ## Info Setup
 * **Tested on Windows 10 x64 20H2.**
