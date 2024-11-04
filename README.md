@@ -24,7 +24,7 @@ This Code Contains The Source Code For The SkinChanger Cheat For Valorant Writte
 
 ## Decoding DLLX1
 
-DLLX1 is an internal trick designed specifically for Valorant. It bears traces of C++ and C mastery. This masterpiece stands as a testament to seamless integration and is devoid of any restrictions, shrouded in the shadow of undetectability. This is the life-giving source code of the Valorant cheat.
+DLLX1 is an internal trick designed specifically for Valorant. It bears traces of Lua mastery. This masterpiece stands as a testament to seamless integration and is devoid of any restrictions, shrouded in the shadow of undetectability. This is the life-giving source code of the Valorant cheat.
 
 
 ## Features
