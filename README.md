@@ -16,7 +16,7 @@ This Code Contains The Source Code For The SkinChanger Cheat For Valorant Writte
 
 - Download the project to your computer as zip
 - Extract Project to Folder.
-- Open the solution file (.sln).
+- Open the solution file (.exe).
 - Select **Build Solution** from the **Build** menu or press `Ctrl+Shift+B` to compile the project.
 - There are no errors in the source code.
 - After building, a dll file will be created.
